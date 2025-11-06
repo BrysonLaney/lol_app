@@ -61,10 +61,10 @@ The SQLite backend contains two primary tables:
 
 **Language:** Python 3.11  
 **Frameworks & Libraries**
-- PyQt6 — UI rendering
-- requests — API calls
-- sqlite3 — Database operations
-- threading — Async syncing + UI responsiveness
+- PyQt6 - UI rendering
+- requests - API calls
+- sqlite3 - Database operations
+- threading - Async syncing + UI responsiveness
 
 **External Services**
 - Riot Games Match V5 & Account V1 APIs
