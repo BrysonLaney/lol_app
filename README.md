@@ -1,4 +1,4 @@
-# League of Legends Matchup Stats — Personal Performance Analyzer
+# League of Legends Matchup Stats - Personal Performance Analyzer
 
 This application retrieves a player's League of Legends match history from the Riot Games API and analyzes personal performance in specific champion matchups. The program stores match data in a **SQLite relational database** and provides an interactive **PyQt6 GUI** for searching best counter picks against any enemy champion.
 
